@@ -1,0 +1,18 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "grupo": "Grupo A",
+  "author": "Diogo",
+  "author_1": "Kaio",
+  "author_2": "Matheus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
