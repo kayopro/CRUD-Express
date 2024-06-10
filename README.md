@@ -116,8 +116,9 @@ O desafio consiste na implementação de rotas para criar, atualizar e excluir u
 
 Lembre-se de que este é apenas um exemplo de armazenamento em memória. Vocês podem explorar posteriormente bancos de dados mais robustos, como o MongoDB, para aprimorar suas habilidades
 
-## **Tecnologias utilizadas**
+## **Tecnologias e recursos utilizadas**
 
 - Vscode
 - Postman
 - JavaScript
+- Express.js (Framework para Node.js)
