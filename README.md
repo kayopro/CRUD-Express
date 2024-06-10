@@ -1,6 +1,8 @@
 # Estudo Dirigido - Node.js Express
 
-Neste guia, vamos explorar o desenvolvimento de um CRUD (Create, Read, Update, Delete) usando o framework **Express.js.** O estudo possui foco nas operações básicas de um CRUD para gerenciar informações de usuários. As instruções abaixo apresentam trechos de código necessários para implementação do CRUD, entretanto, espera-se que você construa rotinas extras para a construção da API.
+Neste guia, vamos explorar o desenvolvimento de um CRUD (Create, Read, Update, Delete) usando o framework **Express.js.** O estudo possui foco nas operações básicas de um CRUD para gerenciar informações de usuários.
+
+As instruções abaixo apresentam trechos de código necessários para implementação do CRUD, entretanto, espera-se que você construa rotinas extras para a construção da API.
 
 ## Criando o Projeto
 
@@ -113,3 +115,8 @@ O desafio consiste na implementação de rotas para criar, atualizar e excluir u
 ```
 
 Lembre-se de que este é apenas um exemplo de armazenamento em memória. Vocês podem explorar posteriormente bancos de dados mais robustos, como o MongoDB, para aprimorar suas habilidades
+
+## **Tecnologias utilizadas**
+
+- Vscode
+- Postman
