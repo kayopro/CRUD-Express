@@ -114,7 +114,9 @@ O desafio consiste na implementação de rotas para criar, atualizar e excluir u
 }
 ```
 
-Lembre-se de que este é apenas um exemplo de armazenamento em memória. Vocês podem explorar posteriormente bancos de dados mais robustos, como o MongoDB, para aprimorar suas habilidades
+Lembre-se de que este é apenas um exemplo de armazenamento em memória. Vocês podem explorar posteriormente bancos de dados mais robustos, como o MongoDB, para aprimorar suas habilidades. 
+
+*Obs:* Para facilitar esta prática, utilize o Postman para fazer o CRUD.
 
 ## **Tecnologias e recursos utilizadas**
 
