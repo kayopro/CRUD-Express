@@ -120,3 +120,4 @@ Lembre-se de que este é apenas um exemplo de armazenamento em memória. Vocês 
 
 - Vscode
 - Postman
+- JavaScript
